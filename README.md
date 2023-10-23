@@ -23,27 +23,27 @@ This course provides a place for students to practice the necessary computationa
 
 | Week | Dates       | Topic                                               | Assignments                              |
 |:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Mon: Aug 28  | Class intro, sets [[Lecture notes]](files/notes_sets.pdf)||
-| 1    | Wed: Aug 30  | Data types and functions [[Lecture notes]](files/notes_types.pdf) [[Colab notebook](https://colab.research.google.com/drive/1XllrOrSr0a9YP9jfwet9QiBe2zUaNVbx?usp=sharing)]||
-| 1    | Fri: Sep 1  | No recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
-| 2    | Mon: Sep 4  | No class (Labor day)||
-| 2    | Wed: Sep 6  | Linear algebra foundations [[Lecture notes]](files/notes_linalg.pdf) [[Slides]](files/Lecture_3.pptx)|||
-| 2    | Fri: Sep 8  | Recitation [[Slides]](files/recitation1slides.pdf)|[Homework 2a](files/hw2a.pdf) due Sunday|
-| 3    | Mon: Sep 11  | __Quiz 1__ + Vector spaces [[Lecture notes]](files/notes_vectorspace.pdf) [[Notebook]](https://colab.research.google.com/drive/1oadgRcfa1FX_vq1PxdixC0rLL9WfMJIE?usp=sharing)||
-| 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination [[Lecture notes]](files/notes_matrices.pdf) [[Slides]](files/Lecture5.pptx)| |
-| 3    | Fri: Sep 15  | Recitation|[Homework 2b](files/hw2b_updated.pdf) due Sunday|
-| 4    | Mon: Sep 18  | Matrix factorization, SVD, and linear regression [[Lecture notes]](files/notes_matrixproperties.pdf) [[Slides]](files/Lecture6.pptx)||
-| 4    | Wed: Sep 20  | Matrix calculus [[Slides]](files/Lecture7.pptx) [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)||
-| 4    | Fri: Sep 22  | Recitation|[Homework 3](files/Homework-3.pdf) due Sunday|
-| 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization [[Lecture notes]](files/Lecture8.pdf) [[Notebook]](https://colab.research.google.com/drive/1Rn5TbWOO-Oc9PLwE_MigG6M_dQPTWQUu?usp=sharing)||
-| 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization [[Slides]](files/Lecture9.pptx)||
-| 5    | Fri: Sep 29  | Recitation|[Homework 4](files/hw_4.pdf) due Sunday|
-| 6    | Mon: Oct 2  | Probability [[Lecture notes 1]](files/notes_probability.pdf) [[Lecture notes 2]](files/notes_RVs.pdf)  [[Slides]](files/Lecture10.pptx)||
-| 6    | Wed: Oct 4  | Joint, marginal, and conditional distributions [[Lecture notes]](files/notes_factorization.pdf) [[Slides]](files/Lecture11.pptx) ||
-| 6    | Fri: Oct 6  | Recitation|[Homework 5](files/hw5.pdf) due Sunday|
-| 7    | Mon: Oct 9  | Bayes' rule, maximum likelihood and MAP estimators [[Slides]](files/Lecture12.pptx)  ||
-| 7    | Wed: Oct 11  | Moments, independence, correlation + review [[Lecture notes]](files/notes_moments.pdf)||
-| 7    | Fri: Oct 13  | __Quiz 3__ |[Homework 6](files/Homework-7.pdf) due Sunday|
+| 1    | Mon: Oct 23  | Class intro, propositional logic ||
+| 1    | Wed: Oct 25  | Propositional logic ||
+| 1    | Fri: Oct 27  | Recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
+| 2    | Mon: Oct 30  | Proofs||
+| 2    | Wed: Nov 1  | Proofs|||
+| 2    | Fri: Nov 3  | Recitation |Homework 2 due Sunday|
+| 3    | Mon: Nov 6  | __Quiz 1__ + Computational complexity||
+| 3    | Wed: Nov 8  | Computational complexity| |
+| 3    | Fri: Nov 10  | Recitation|Homework 3 due Sunday|
+| 4    | Mon: Nov 13  | Data structures ||
+| 4    | Wed: Nov 15  | Data structures||
+| 4    | Fri: Nov 17  | Recitation|Homework 4 due Sunday|
+| 5    | Mon: Nov 20  | __Quiz 2__ + Data structures||
+| 5    | Wed: Nov 22  | No class||
+| 5    | Fri: Nov 24  | No recitation||
+| 6    | Mon: Nov 27  | Algorithms||
+| 6    | Wed: Nov 29 | Algorithms ||
+| 6    | Fri: Dec 1  | Recitation|Homework 5 due Sunday|
+| 7    | Mon: Dec 4  | Algorithms  ||
+| 7    | Wed: Dec 6  | Algorithms||
+| 7    | Fri: Dec 8  | __Quiz 3__ |Homework 6 due Sunday|
 
 
 ## Relationship between 10-606 and 10-607
