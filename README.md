@@ -23,8 +23,8 @@ This course provides a place for students to practice the necessary computationa
 
 | Week | Dates       | Topic                                               | Assignments                              |
 |:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Mon: Oct 23  | Class intro, propositional logic [[Slides]](files/Lecture1.pptx)||
-| 1    | Wed: Oct 25  | Propositional logic ||
+| 1    | Mon: Oct 23  | Class intro, propositional logic [[Slides]](files/Lecture1.pptx) [[Notes]](files/notes_logic2.pdf) [[Optional reference]](http://infolab.stanford.edu/~ullman/focs/ch12.pdf)||
+| 1    | Wed: Oct 25  | Propositional logic [[Notes]](files/notes_logic1.pdf)||
 | 1    | Fri: Oct 27  | Recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
 | 2    | Mon: Oct 30  | Proofs||
 | 2    | Wed: Nov 1  | Proofs|||
