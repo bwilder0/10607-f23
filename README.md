@@ -23,7 +23,7 @@ This course provides a place for students to practice the necessary computationa
 
 | Week | Dates       | Topic                                               | Assignments                              |
 |:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Mon: Oct 23  | Class intro, propositional logic ||
+| 1    | Mon: Oct 23  | Class intro, propositional logic [[Slides]](files/Lecture1.pptx)||
 | 1    | Wed: Oct 25  | Propositional logic ||
 | 1    | Fri: Oct 27  | Recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
 | 2    | Mon: Oct 30  | Proofs||
