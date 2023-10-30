@@ -28,7 +28,7 @@ This course provides a place for students to practice the necessary computationa
 | 1    | Fri: Oct 27  | Recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
 | 2    | Mon: Oct 30  | Proofs||
 | 2    | Wed: Nov 1  | Proofs|||
-| 2    | Fri: Nov 3  | Recitation |Homework 2 due Sunday|
+| 2    | Fri: Nov 3  | Recitation |[Homework 2](files/Homework-2.pdf) due Sunday|
 | 3    | Mon: Nov 6  | __Quiz 1__ + Computational complexity||
 | 3    | Wed: Nov 8  | Computational complexity| |
 | 3    | Fri: Nov 10  | Recitation|Homework 3 due Sunday|
