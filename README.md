@@ -29,8 +29,8 @@ This course provides a place for students to practice the necessary computationa
 | 2    | Mon: Oct 30  | Proofs [[Slides]](files/Lecture3.pptx) [[Optional reference (2.3)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
 | 2    | Wed: Nov 1  | Proofs [[Slides]](files/Lecture4.pptx) [[Optional reference (12.7-9)]](http://infolab.stanford.edu/~ullman/focs/ch12.pdf)|||
 | 2    | Fri: Nov 3  | Recitation |[Homework 2](files/Homework-2.pdf) due Sunday|
-| 3    | Mon: Nov 6  | __Quiz 1__ + Computational complexity||
-| 3    | Wed: Nov 8  | Computational complexity| |
+| 3    | Mon: Nov 6  | __Quiz 1__ + Computational complexity [[Slides]](files/Lecture5.pptx) [[Notes]](files/notes_complexity.pdf)||
+| 3    | Wed: Nov 8  | Computational complexity [[Slides]](files/Lecture6.pptx) [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf)| |
 | 3    | Fri: Nov 10  | Recitation|Homework 3 due Sunday|
 | 4    | Mon: Nov 13  | Data structures ||
 | 4    | Wed: Nov 15  | Data structures||
