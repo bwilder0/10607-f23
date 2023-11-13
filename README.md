@@ -34,7 +34,7 @@ This course provides a place for students to practice the necessary computationa
 | 3    | Fri: Nov 10  | Recitation|[Homework 3](files/Homework-3__1_.pdf) due Sunday|
 | 4    | Mon: Nov 13  | Data structures ||
 | 4    | Wed: Nov 15  | Data structures||
-| 4    | Fri: Nov 17  | Recitation|Homework 4(files/Homework-4.pdf) and HW 4 Coding(files/10607_f23_hw4.zip) due Sunday|
+| 4    | Fri: Nov 17  | Recitation|[Homework 4](files/Homework-4.pdf) [(code template zip)](files/10607_f23_hw4.zip) due Sunday|
 | 5    | Mon: Nov 20  | __Quiz 2__ + Data structures||
 | 5    | Wed: Nov 22  | No class||
 | 5    | Fri: Nov 24  | No recitation||
