@@ -32,17 +32,17 @@ This course provides a place for students to practice the necessary computationa
 | 3    | Mon: Nov 6  | __Quiz 1__ + Computational complexity [[Slides]](files/Lecture5.pptx) [[Notes]](files/notes_complexity.pdf)||
 | 3    | Wed: Nov 8  | Computational complexity [[Slides]](files/Lecture6.pptx) [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf)| |
 | 3    | Fri: Nov 10  | Recitation|[Homework 3](files/Homework-3__1_.pdf) due Sunday|
-| 4    | Mon: Nov 13  | Data structures ||
-| 4    | Wed: Nov 15  | Data structures||
+| 4    | Mon: Nov 13  | Algorithms: recursion [[Slides]](files/Lecture7.pptx) [[Reference (2.6-7)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
+| 4    | Wed: Nov 15  | Algorithms: dynamic programming [[Slides]](files/Lecture8.pptx) [[Notes]](files/notes_dp.pdf)||
 | 4    | Fri: Nov 17  | Recitation|[Homework 4](files/Homework-4.pdf) ([code template zip](files/10607_f23_hw4.zip)) due Sunday|
 | 5    | Mon: Nov 20  | __Quiz 2__ + Data structures||
 | 5    | Wed: Nov 22  | No class||
 | 5    | Fri: Nov 24  | No recitation||
-| 6    | Mon: Nov 27  | Algorithms||
-| 6    | Wed: Nov 29 | Algorithms ||
+| 6    | Mon: Nov 27  | Data structures||
+| 6    | Wed: Nov 29 | Data structures ||
 | 6    | Fri: Dec 1  | Recitation|Homework 5 due Sunday|
-| 7    | Mon: Dec 4  | Algorithms  ||
-| 7    | Wed: Dec 6  | Algorithms||
+| 7    | Mon: Dec 4  | Optimization  ||
+| 7    | Wed: Dec 6  | Optimization ||
 | 7    | Fri: Dec 8  | __Quiz 3__ |Homework 6 due Sunday|
 
 
