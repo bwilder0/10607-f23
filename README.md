@@ -35,11 +35,11 @@ This course provides a place for students to practice the necessary computationa
 | 4    | Mon: Nov 13  | Algorithms: recursion [[Slides]](files/Lecture7.pptx) [[Reference (2.6-7)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
 | 4    | Wed: Nov 15  | Algorithms: dynamic programming [[Slides]](files/Lecture8.pptx) [[Notes]](files/notes_dp.pdf)||
 | 4    | Fri: Nov 17  | Recitation|[Homework 4](files/Homework-4.pdf) ([code template zip](files/10607_f23_hw4.zip)) due Sunday|
-| 5    | Mon: Nov 20  | __Quiz 2__ + Data structures||
+| 5    | Mon: Nov 20  | __Quiz 2__ + Trees [[Slides]](files/Lecture9.pptx) [[Reference (5.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch05.pdf )||
 | 5    | Wed: Nov 22  | No class||
 | 5    | Fri: Nov 24  | No recitation||
-| 6    | Mon: Nov 27  | Data structures||
-| 6    | Wed: Nov 29 | Data structures ||
+| 6    | Mon: Nov 27  | Stacks, Queues, and Lists||
+| 6    | Wed: Nov 29 | Graphs ||
 | 6    | Fri: Dec 1  | Recitation|Homework 5 due Sunday|
 | 7    | Mon: Dec 4  | Optimization  ||
 | 7    | Wed: Dec 6  | Optimization ||
