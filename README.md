@@ -40,10 +40,10 @@ This course provides a place for students to practice the necessary computationa
 | 5    | Fri: Nov 24  | No recitation||
 | 6    | Mon: Nov 27  | Stacks, Queues, and Lists||
 | 6    | Wed: Nov 29 | Graphs ||
-| 6    | Fri: Dec 1  | Recitation|Homework 5 due Sunday|
+| 6    | Fri: Dec 1  | Recitation|[Homework 5+6](files/Homework_week_5.pdf) due Sunday|
 | 7    | Mon: Dec 4  | Optimization  ||
 | 7    | Wed: Dec 6  | Optimization ||
-| 7    | Fri: Dec 8  | __Quiz 3__ |Homework 6 due Sunday|
+| 7    | Fri: Dec 8  | __Quiz 3__ |Homework 7 due Sunday|
 
 
 ## Relationship between 10-606 and 10-607
