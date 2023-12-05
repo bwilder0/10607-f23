@@ -43,7 +43,7 @@ This course provides a place for students to practice the necessary computationa
 | 6    | Fri: Dec 1  | Recitation|[Homework 5+6](files/hw_5.pdf) due Sunday|
 | 7    | Mon: Dec 4  | Optimization  ||
 | 7    | Wed: Dec 6  | Optimization ||
-| 7    | Fri: Dec 8  | __Quiz 3__ |Homework 7 due Sunday|
+| 7    | Fri: Dec 8  | __Quiz 3__ |Homework 7 [code template](files/loss_optimization.py) due Sunday|
 
 
 ## Relationship between 10-606 and 10-607
