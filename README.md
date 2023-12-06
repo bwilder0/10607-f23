@@ -41,8 +41,8 @@ This course provides a place for students to practice the necessary computationa
 | 6    | Mon: Nov 27  | Stacks, Queues, and Lists [[Slides]](files/Lecture10.pptx) [[Reference (6.2-8)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf) ||
 | 6    | Wed: Nov 29 | Graphs [[Slides]](files/Lecture11.pptx) [[Reference (9.2-6)]](http://infolab.stanford.edu/~ullman/focs/ch09.pdf ) ||
 | 6    | Fri: Dec 1  | Recitation|[Homework 5+6](files/hw_5.pdf) due Sunday|
-| 7    | Mon: Dec 4  | Optimization  ||
-| 7    | Wed: Dec 6  | Optimization ||
+| 7    | Mon: Dec 4  | Optimization [[Slides]](files/Lecture12.pptx) [[Notes on search]](files/notes_search.pdf)   ||
+| 7    | Wed: Dec 6  | Optimization [[Slides]](files/Lecture13.pptx)  ||
 | 7    | Fri: Dec 8  | __Quiz 3__ |Homework 7 [code template](files/loss_optimization.py) due Sunday|
 
 
